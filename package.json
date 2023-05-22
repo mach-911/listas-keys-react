@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "keywords": [],
-  "main": "src/main.jsx",
+  "main": "src/index.js",
   "dependencies": {
     "loader-utils": "3.2.1",
     "react": "18.2.0",
