@@ -1,3 +1,24 @@
 body {
+  text-align: center;
+  vertical-align: center;
+  min-height: 100vh;
+  background: #292929;
+  color: white;
   font-family: sans-serif;
+}
+
+ul {
+  padding: 0;
+}
+
+li {
+  list-style: none;
+}
+
+table {
+  margin: auto;
+}
+td,
+th {
+  padding: 4px;
 }
